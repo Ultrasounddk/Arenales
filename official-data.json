@@ -1,0 +1,73 @@
+{
+  "schema": 3,
+  "series": "148.3_INIVELNAL_DICI_M_26",
+  "retrieved": "2026-10-05T22:05:21.433409+00:00",
+  "checkedThrough": "2026-10-05",
+  "source": "https://www.indec.gob.ar/ftp/cuadros/economia/serie_ipc_divisiones.csv",
+  "publicationSource": "https://www.indec.gob.ar/Institucional/Indec/InformesTecnicos/31",
+  "records": [
+    {
+      "month": "2025-12",
+      "index": 10121.3715,
+      "rate": 2.8,
+      "published": "2026-01-13",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_266741F036E8.pdf"
+    },
+    {
+      "month": "2026-01",
+      "index": 10413.0309,
+      "rate": 2.9,
+      "published": "2026-02-10",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_02_261443D4406C.pdf"
+    },
+    {
+      "month": "2026-02",
+      "index": 10714.6255,
+      "rate": 2.9,
+      "published": "2026-03-12",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_03_2650E16DA2A9.pdf"
+    },
+    {
+      "month": "2026-03",
+      "index": 11077.0608,
+      "rate": 3.4,
+      "published": "2026-04-14",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_04_26853171E136.pdf"
+    },
+    {
+      "month": "2026-04",
+      "index": 11363.0904,
+      "rate": 2.6,
+      "published": "2026-05-14",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_05_2680B692D2F5.pdf"
+    },
+    {
+      "month": "2026-05",
+      "index": 11607.3937,
+      "rate": 2.1,
+      "published": "2026-06-11",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_06_26C132AEE4E9.pdf"
+    },
+    {
+      "month": "2026-06",
+      "index": 11826.4103,
+      "rate": 1.9,
+      "published": "2026-07-14",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_07_26D38930EEA5.pdf"
+    },
+    {
+      "month": "2026-07",
+      "index": 12076.3937,
+      "rate": 2.1,
+      "published": "2026-08-13",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_2642C82F62AE.pdf"
+    },
+    {
+      "month": "2026-08",
+      "index": 12276.766,
+      "rate": 1.7,
+      "published": "2026-09-10",
+      "report": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_09_26A1BE2DC4CD.pdf"
+    }
+  ]
+}
